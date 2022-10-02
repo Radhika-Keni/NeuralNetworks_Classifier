@@ -5,7 +5,7 @@ Build a Digit Classifier
 
 ## Objective of this notebook
 - The purpose of this notebook is to build a Digit Image classifier the Street View Housing Number dataset.
-- Details of the **problem statement**  , **data set** , **sample input**, **summary of the code/solution** and **final result** of the project are listed in the sections to follow.
+- Details of the **problem statement**  , **data set** , **sample input** , **summary of the code/solution** and **final result** of the project are listed in the sections to follow.
 
 ## Problem Statement 
 A Recognising multi-digit numbers in photographs captured at street level is an important component of modern-day map making. A classic example of a corpus of such street-level photographs is Google’s Street View imagery composed of hundreds of millions of geo-located 360-degree panoramic images.
