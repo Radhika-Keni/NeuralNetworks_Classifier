@@ -5,7 +5,7 @@ Build a Digit Classifier
 
 ## Objective of this notebook
 - The purpose of this notebook is to build a Digit Image classifier the Street View Housing Number dataset.
-- Details of the **problem statement**  , **data set** ,  **summary of the code/solution** and **final result** of the project are listed in the sections to follow.
+- Details of the **problem statement**  , **data set** ,**sample input**, **summary of the code/solution** and **final result** of the project are listed in the sections to follow.
 
 ## Problem Statement 
 A Recognising multi-digit numbers in photographs captured at street level is an important component of modern-day map making. A classic example of a corpus of such street-level photographs is Google’s Street View imagery composed of hundreds of millions of geo-located 360-degree panoramic images.
@@ -31,7 +31,7 @@ The code aims at building a digit(Image) Classifier classifier
 - We begin by doing an Exploratory Data analyses and Visualisation/viewing of the images 
 - We then do the required pre-processing of the data to prepare it so it can be fed into a Neural Network which involves converting target variable into a one hot   vector and normalising the input data 
 - We then begin the process of building a Neural Network model 
-- We then begin "tuning" the model in terms of no of layers,adding L2 regularization parameter,adding batch normalisation layers & Drop out and for each of these cases , we capture the test data accuracy
+- Next we  start "tuning" the model in terms of no of layers,adding L2 regularization parameter,adding batch normalisation layers & Drop out and for each of these cases , we capture the test data accuracy
 - Finally we compare the test/validation accuracy for all the various models built above and choose the best contender
 - Refer **python worksheet Project_ClassificationUsingNeuralNetworks_MultiDigitNumbers.ipynb** for the solution
 
